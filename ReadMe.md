@@ -18,14 +18,14 @@ $\text{S -> NP VP}$ defines the case in which a sentence is composed of a noun p
 
 ### `menu.txt`
 
-All words should be on their own line with a `,` as a delimeter
+All words should be on their own line, followed by their lexical class, separated by a comma.
 
 e.g., `menu.txt`:
 
 ```plaintext
-this,
-is,
-an,
-example,
-file
+this, Det
+is, Det
+an, Det
+example, Adj
+file, N
 ```
