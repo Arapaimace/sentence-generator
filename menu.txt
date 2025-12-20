@@ -1,0 +1,5 @@
+This, Det
+is, Det
+an, Det
+example, Adj
+sentence, N
