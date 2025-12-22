@@ -1,4 +1,5 @@
 from pathlib import Path
+from grammar import Word, Sentence
 
 def read(path: Path) -> Sentence:
     output = []
