@@ -1,12 +1,13 @@
-S → NP VP
-VP → TV NP
-VP → V
-VP → DTV NP NP
-VP → SV S
-N → Adj N
-NP → Det N
-NP → PropN
-VP → VP Adv
-PP → P NP
-N → N PP
-VP → VP PP
+S -> NP VP
+VP -> TV NP
+VP -> V
+VP -> DTV NP NP
+VP -> SV S
+N -> Adj N
+NP -> Det N
+NP -> PropN
+VP -> VP Adv
+PP -> P NP
+N -> N PP
+VP -> VP PP
+

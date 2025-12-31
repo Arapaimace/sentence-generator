@@ -1,5 +1,5 @@
 This, Det
-is, Det
+is, V
 an, Det
 example, Adj
 sentence, N
