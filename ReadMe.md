@@ -16,6 +16,18 @@ e.g.,
 
 $\text{S -> NP VP}$ defines the case in which a sentence is composed of a noun phrase and verb phrase. 
 
+exaxmple `rules.txt`:
+
+```plaintext
+S -> NP VP
+S -> SV S
+NP -> Det N
+N -> Adj N
+.
+.
+.
+```
+
 ### `menu.txt`
 
 All words should be on their own line, followed by their lexical class, separated by a comma.
@@ -28,4 +40,7 @@ is, Det
 an, Det
 example, Adj
 file, N
+.
+.
+.
 ```
